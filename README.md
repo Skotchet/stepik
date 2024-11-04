@@ -1,1 +1,1 @@
-# My first repositury
+# My first repository
